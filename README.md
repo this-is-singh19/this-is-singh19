@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 ![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=this-is-singh19&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=this-is-singh19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=this-is-singh19)](https://git.io/streak-stats)
