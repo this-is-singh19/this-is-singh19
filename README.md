@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Yuvraj 👨‍💻
+</h1>
+
+<p align='center'>
+- 🌱 I’m currently learning: Deep Learning and Django
+- 📫 How to reach me: <p align='center'>
+  
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alexandresanlim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 <!--
 **this-is-singh19/this-is-singh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,17 +23,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🌱 I’m currently learning: Deep Learning and Django
-- 📫 How to reach me: <p align='center'>
-  
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
