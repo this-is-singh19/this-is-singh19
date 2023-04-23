@@ -10,7 +10,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 - 🌱 I’m currently learning: Deep Learning and Django
-- 📫 How to reach me: <a href="https://instagram.com/alexandresanlim"><img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> </a>
+- 📫 How to reach me: <p align='center'>
+  
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alexandresanlim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
