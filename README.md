@@ -3,10 +3,10 @@
 </h1>
 
 <p align='center'>  
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://www.linkedin.com/in/yuvraj-singh-95a375137/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
+  <a href="https://leetcode.com/youraj17/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
