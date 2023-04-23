@@ -15,8 +15,9 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 
-
+<center>
 ![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=this-is-singh19&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=this-is-singh19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=this-is-singh19)](https://git.io/streak-stats)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</center>
